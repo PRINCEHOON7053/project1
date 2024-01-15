@@ -1,1 +1,1 @@
-Dynamic Stopwatch 
+Dynamic Stopwatch Using Javascript
